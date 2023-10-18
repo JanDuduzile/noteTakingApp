@@ -1,0 +1,15 @@
+C:\Users\duduz\OneDrive\Documents\Duduzile\C#\NoteTakingApp\bin\Debug\net7.0\NoteTakingApp.exe
+C:\Users\duduz\OneDrive\Documents\Duduzile\C#\NoteTakingApp\bin\Debug\net7.0\NoteTakingApp.deps.json
+C:\Users\duduz\OneDrive\Documents\Duduzile\C#\NoteTakingApp\bin\Debug\net7.0\NoteTakingApp.runtimeconfig.json
+C:\Users\duduz\OneDrive\Documents\Duduzile\C#\NoteTakingApp\bin\Debug\net7.0\NoteTakingApp.dll
+C:\Users\duduz\OneDrive\Documents\Duduzile\C#\NoteTakingApp\bin\Debug\net7.0\NoteTakingApp.pdb
+C:\Users\duduz\OneDrive\Documents\Duduzile\C#\NoteTakingApp\obj\Debug\net7.0\NoteTakingApp.csproj.AssemblyReference.cache
+C:\Users\duduz\OneDrive\Documents\Duduzile\C#\NoteTakingApp\obj\Debug\net7.0\NoteTakingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duduz\OneDrive\Documents\Duduzile\C#\NoteTakingApp\obj\Debug\net7.0\NoteTakingApp.AssemblyInfoInputs.cache
+C:\Users\duduz\OneDrive\Documents\Duduzile\C#\NoteTakingApp\obj\Debug\net7.0\NoteTakingApp.AssemblyInfo.cs
+C:\Users\duduz\OneDrive\Documents\Duduzile\C#\NoteTakingApp\obj\Debug\net7.0\NoteTakingApp.csproj.CoreCompileInputs.cache
+C:\Users\duduz\OneDrive\Documents\Duduzile\C#\NoteTakingApp\obj\Debug\net7.0\NoteTakingApp.dll
+C:\Users\duduz\OneDrive\Documents\Duduzile\C#\NoteTakingApp\obj\Debug\net7.0\refint\NoteTakingApp.dll
+C:\Users\duduz\OneDrive\Documents\Duduzile\C#\NoteTakingApp\obj\Debug\net7.0\NoteTakingApp.pdb
+C:\Users\duduz\OneDrive\Documents\Duduzile\C#\NoteTakingApp\obj\Debug\net7.0\NoteTakingApp.genruntimeconfig.cache
+C:\Users\duduz\OneDrive\Documents\Duduzile\C#\NoteTakingApp\obj\Debug\net7.0\ref\NoteTakingApp.dll
